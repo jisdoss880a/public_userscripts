@@ -17,12 +17,13 @@
         'Thank you for this upload! :gjob: ',
         'Thanks for uploading! :tiphat:',
         'Thanks for sharing! :tiphat:',
-        'Wow :lovelove:\nThanks :tiphat:',
         'Looks great :yaydance:\nThanks for sharing :gjob:',
+        'Looks cool :yaydance:\nThanks for sharing :gjob:',
         'Looks awesome :yaydance:\nThanks for sharing :gjob:',
-        'Amazing :lovelove:\nThanks :tiphat:',
-        'Amazing :wanker:\nThanks :gjob:',
-        'Awesome! :w00t: Thanks! :gjob:'
+        'Wow :lovelove:\nThanks :tiphat:',
+        'Amazing! :lovelove:\nThanks! :tiphat:',
+        'Amazing! :wanker:\nThanks! :gjob:',
+        'Awesome! :w00t:\nThanks! :gjob:'
     ]
     var custom_place_for_adding_html
     var gazelle_bookmark_button
