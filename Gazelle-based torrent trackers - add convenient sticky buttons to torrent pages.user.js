@@ -7,6 +7,7 @@
 // @match        https://www.empornium.me/torrents.php?id=*
 // @match        https://femdomcult.org/torrents.php?id=*
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function () {
